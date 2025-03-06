@@ -9,4 +9,5 @@
 本工程包含一系列与大空间相关的 SDK 示例：
 
 - [Marker Display](https://github.com/PlayForDreamDevelopers/LBESample-Unity/tree/main/Assets/MarkerDisplay): 展现扫描 Marker 点
-  - 该示例依赖真实环境中的 [Marker 点](https://www.pfdm.cn/yvrdoc/biz/docs/0.Overview.html)
+    ![2025 03 06_105136998](https://github.com/user-attachments/assets/3ca56922-b478-42fb-a9b6-615fcdcce6a0)
+    - 该示例依赖真实环境中的 [Marker 点](https://www.pfdm.cn/yvrdoc/biz/docs/0.Overview.html)
