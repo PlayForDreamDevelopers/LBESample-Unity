@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using YVR.Core;
-using YVR.LBE;
+using YVR.Enterprise.LBE;
 
 public class MarkerControl : MonoBehaviour
 {

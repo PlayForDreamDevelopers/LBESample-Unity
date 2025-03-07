@@ -1,4 +1,4 @@
-# Large Space Sample
+# LBE Sample
 
 [![en](https://img.shields.io/badge/lang-zh-blue.svg)](https://github.com/PlayForDreamDevelopers/LBESample-Unity/blob/main/README.zh.md)
 

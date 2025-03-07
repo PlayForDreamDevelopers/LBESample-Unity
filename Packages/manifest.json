@@ -7,7 +7,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
     "com.yvr.core": "git@github.com:PlayForDreamDevelopers/com.yvr.core-mirror.git?path=/com.yvr.core#212cf5ea67829799bcd8b9f7f7963b2dfd0b0505",
-    "com.yvr.enterprise": "git@github.com:PlayForDreamDevelopers/com.yvr.enterprise-mirror.git?path=/com.yvr.enterprise#version_0.0.4",
+    "com.yvr.enterprise": "git@github.com:PlayForDreamDevelopers/com.yvr.enterprise-mirror.git?path=/com.yvr.enterprise#version_0.0.6",
     "com.yvr.utilities": "git@github.com:PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#c06beb422cd7e07324aa50ec3196be2ef1de1205",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
