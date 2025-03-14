@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MarkerDisplay/MarkerScene.unity
+    path: Assets/Sample-MarkerDisplay/MarkerDisplay.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     YVR.Core.XR.YVRXRSettings: {fileID: 11400000, guid: 9ebc730056fad244f8e6963f419a843a, type: 2}
