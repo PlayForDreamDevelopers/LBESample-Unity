@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -653,12 +652,7 @@ MonoBehaviour:
     _powerSetting: 1
     useRecommendedMSAALevel: 1
   trackingManager:
-    _trackingSpace: 1
-  handTrackingSupport: 0
-  spatialAnchorSupport: 0
-  sceneSupport: 0
-  eyeTrackingSupport: 0
-  largeSpaceSupport: 1
+    _trackingSpace: 1000426000
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
